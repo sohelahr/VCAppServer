@@ -1,0 +1,9 @@
+Server Link
+https://dashboard.render.com/#
+
+Reference document for deployment
+https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/
+
+App Reference
+https://dev.to/video-sdk/react-native-webrtc-lm9
+https://github.com/sohelahr/VCAppServer
